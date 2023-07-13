@@ -5,7 +5,7 @@ who are unemployed as a percentage of the total labour force. We have seen a sha
 increase in the unemployment rate during Covid-19, so analyzing the unemployment rate
 can be a good data science project. The unemployment rate is calculated based on a particular region, so to analyze unemployment I will be using an unemployment dataset of India. The dataset I’m using here contains data on India’s unemployment rate during Covid-19. So let’s start the task of Unemployment analysis
 
-## This project files contains dataset, source code both ipynb and py and model files.
+## This project files contains dataset and source code in ipynb.
 
 •	Importing Required Packages
 
